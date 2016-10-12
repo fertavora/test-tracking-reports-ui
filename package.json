@@ -1,0 +1,24 @@
+{
+  "name": "test-tracking-reports-ui",
+  "version": "0.0.1",
+  "description": "",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fertavora/test-tracking-reports-ui.git"
+  },
+  "author": "Fernando Távora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fertavora/test-tracking-reports-ui/issues"
+  },
+  "homepage": "https://github.com/fertavora/test-tracking-reports-ui#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
