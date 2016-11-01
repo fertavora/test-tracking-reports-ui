@@ -19,6 +19,8 @@
   "homepage": "https://github.com/fertavora/test-tracking-reports-ui#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "http": "0.0.0",
+    "reload": "^1.0.1"
   }
 }
